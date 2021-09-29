@@ -1,0 +1,4 @@
+git checkout C3
+git reset HEAD~
+git add -A
+git branch -m C3-hotfix
